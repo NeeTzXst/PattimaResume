@@ -1,5 +1,5 @@
 # PattimaResume
-This is my Resume Web Responsive using HTML, CSS and JavaScript.
-You can download my project and run "node server.js" to view my resume website.
+This is my web responsive resume created using HTML, CSS, and JavaScript.<br>
+You can download my project and run <h3>node server.js</h3> to view my resume website.
 
-I will deployed my webssite soon. Thank you to visit my project.
+I will be deploying my website soon. Thank you for visiting my project.
