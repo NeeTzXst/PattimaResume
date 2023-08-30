@@ -140,6 +140,9 @@ a.navMe:active{
 .text-box{
     padding-top: 120px;
 }
+.text-box-Mini{
+    padding-top: 80px;
+}
 .text-box-evie{
     padding-top: 50px;
 }
@@ -607,6 +610,9 @@ a.footerLink:active{
 
 @media screen and (max-width: 768px){
     .text-box{
+        padding-top: 30px;
+    }
+    .text-box-Mini{
         padding-top: 30px;
     }
     .text-box-evie{
